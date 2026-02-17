@@ -1,9 +1,9 @@
-# NeuroSQL_version2
-# NeuroSQL Enhanced v2.0: Enterprise AI-Powered NL-to-SQL Platform
+# QUERYPILOT AI
+# QUERYPILOT AI : Enterprise AI-Powered NL-to-SQL Platform
 
 🚀 **Transform your natural language questions into SQL with cutting-edge AI technology!**
 
-NeuroSQL Enhanced is a production-ready, enterprise-grade Natural Language to SQL platform that combines advanced AI/ML capabilities with comprehensive security, performance optimization, and multi-database support.
+Querypilot  Enhanced is a production-ready, enterprise-grade Natural Language to SQL platform that combines advanced AI/ML capabilities with comprehensive security, performance optimization, and multi-database support.
 
 ---
 

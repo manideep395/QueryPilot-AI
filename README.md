@@ -131,13 +131,13 @@ python evaluation/enhanced_evaluator.py
 
 ## 📈 Performance Benchmarks
 
-| Feature | Before | After | Improvement |
-|---------|--------|-------|-------------|
-| Query Accuracy | 60% | 85% | +25% |
-| Response Time | 2.3s | 0.8s | 65% faster |
-| Concurrent Users | 10 | 100+ | 10x |
-| Security | Basic | Enterprise | Complete |
-| Database Support | SQLite only | 3 databases | 300% more |
+| Feature | Percentage|
+|---------|--------|
+| Query Accuracy | 85% |
+| Response Time | 0.8s | 
+| Concurrent Users | 100+ |
+| Security | Enterprise |
+| Database Support | 3 databases |
 
 ---
 

@@ -55,40 +55,7 @@ pip install -r requirements.txt
 python data/enhanced_sample_data.py
 ```
 
-### Running the System
 
-#### **Web Interface (Recommended)**
-```bash
-# Start web server
-python enhanced_main.py --web --port 8000
-
-# Access dashboard
-# http://localhost:8000
-# Default login: admin / admin123
-```
-
-#### **CLI Interface**
-```bash
-# Interactive mode
-python enhanced_main.py
-
-# Create users
-python enhanced_main.py --create-user --username john --email john@example.com --password pass123 --role analyst
-```
-
-#### **Run All Tests**
-```bash
-# Comprehensive test suite
-python run_tests.py
-
-# Individual test categories
-python -m pytest tests/test_enhanced_features.py
-python tests/integration_tests.py
-python tests/performance_benchmarks.py
-python evaluation/enhanced_evaluator.py
-```
-
----
 
 ## 📊 Features & Capabilities
 
@@ -368,8 +335,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 🆘 Support & Documentation
 
 - **📚 Full Documentation**: [README_ENHANCED.md](README_ENHANCED.md)
-- **🐛 Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **📧 Email**: support@neurosql.com
+- **🐛 Issues**: [GitHub Issues](https://github.com/manideep395)
+- **📧 Email**: kasireddymanideepreddy405@gmail.com
 - **💬 Discord**: [Community Server](https://discord.gg/neurosql)
 
 ---
